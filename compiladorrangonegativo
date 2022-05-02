@@ -1,0 +1,26 @@
+Compiling project changes...
+--------
+- Project Filename: C:\Users\PC_01\Music\rangonegativo\rangowhile2ultimo.dev
+- Compiler Name: TDM-GCC 4.9.2 64-bit Release
+
+Building makefile...
+--------
+- Filename: C:\Users\PC_01\Music\rangonegativo\Makefile.win
+
+Processing makefile...
+--------
+- Makefile Processor: C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\mingw32-make.exe
+- Command: mingw32-make.exe -f "C:\Users\PC_01\Music\rangonegativo\Makefile.win" all
+
+g++.exe -c evaluarRango-3+5.cpp -o evaluarRango-3+5.o -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" 
+
+g++.exe evaluarRango-3+5.o -o rangowhile2ultimo.exe -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+
+
+Compilation results...
+--------
+- Errors: 0
+- Warnings: 0
+- Output Filename: C:\Users\PC_01\Music\rangonegativo\rangowhile2ultimo.exe
+- Output Size: 1.83214092254639 MiB
+- Compilation Time: 1.22s
